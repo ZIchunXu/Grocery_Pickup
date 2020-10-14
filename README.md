@@ -47,3 +47,6 @@ Included: checkout.html
 
 Edditor: Boki Pantic
 Included: ordering.html
+
+Edditor: Lilian Xu
+Included: signup.html
